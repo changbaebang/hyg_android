@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartBulletinAndWear</string>
+    <string name="title_activity_main">Send Message to Wear</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="previous_month">Previous month</string>
+    <string name="next_month">Next month</string>
+    <string name="noti_provider_name">Sample notification provider</string>
+</resources>
